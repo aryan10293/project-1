@@ -1,12 +1,4 @@
 
-.explore{
- color: initial;
-}
-.header-list{
-    display: block;
-    border-right: solid thin black;
-    padding: 4px;
-}
 /* element type selectors */
 
 body{
@@ -26,11 +18,14 @@ h1{
     text-decoration: underline;
     text-shadow: 8px 11px 5px #333333;
     position: relative;
-    top: 400px;
     text-align: center;
 }
 h2{
     text-transform: uppercase;
+}
+p{
+    text-align: center;
+    top: 400px;
 }
 /* a type selectors */
 a:visited{
@@ -46,16 +41,4 @@ a:link{
     height: 1000px;
     margin-bottom: 20px;
     background-repeat: no-repeat;
-}
-
-/* float elemnets */
-.explore,
-.copy{
-    width: 46.5%;
-}
-.explore{
-    float: right;
-}
-.copy{
-    float: left;
 }
