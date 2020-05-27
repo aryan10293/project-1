@@ -42,7 +42,7 @@ a:link{
 /* id type selectors */
 #top{
     background-image: linear-gradient(skyblue, transparent 90%),
-                    url('images/goldengate.jpg');
+                    url('../images/goldengate.jpg');
     height: 1000px;
     margin-bottom: 20px;
     background-repeat: no-repeat;
