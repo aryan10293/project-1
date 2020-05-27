@@ -1,0 +1,27 @@
+           body { 
+                background-color:maroon;
+                font-size: medium;
+
+                
+            }
+            li {
+                color: white;
+                font-size: 13px;
+                font-weight: 100;
+                
+            }
+            a {
+                color: white;
+            }
+            h1 {
+                border-bottom: 2px solid white;
+                color: white;
+                font-size: 240%;
+            }
+            .lebron{
+                color: white;
+                font-family: times, times new roman, serif family
+            }
+            .copyright{
+                color: white;
+            }

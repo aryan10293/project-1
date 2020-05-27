@@ -23,10 +23,6 @@ h1{
 h2{
     text-transform: uppercase;
 }
-p{
-    text-align: center;
-    top: 400px;
-}
 /* a type selectors */
 a:visited{
     color: red;
@@ -41,4 +37,9 @@ a:link{
     height: 1000px;
     margin-bottom: 20px;
     background-repeat: no-repeat;
+}
+/* class typer selectors */
+.valley{
+    text-align: center;
+    top: 400px;
 }

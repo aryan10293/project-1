@@ -98,6 +98,9 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
+  background-image: url(../images/lakechabot.jpg);
+  background-repeat: no-repeat;
+  color: white;
 }
 .card:hover {
   border-color: #800020;
